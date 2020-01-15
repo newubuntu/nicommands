@@ -1,0 +1,23 @@
+{
+  "name": "nicommand",
+  "version": "1.0.0",
+  "description": "bat command exc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newubuntu/nicommands.git"
+  },
+  "keywords": [
+    "bat",
+    "commands"
+  ],
+  "author": "niwath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newubuntu/nicommands/issues"
+  },
+  "homepage": "https://github.com/newubuntu/nicommands#readme"
+}
